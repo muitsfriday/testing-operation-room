@@ -1,6 +1,6 @@
 import { Router } from 'express'
 import DB from '@app/libs/dbx'
-import Writer from './libs/wrtierx'
+import Writer from '@app/libs/wrtierx'
 
 const router = Router()
 
